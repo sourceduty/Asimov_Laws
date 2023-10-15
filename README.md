@@ -8,28 +8,6 @@ A robot may not injure a human being or, through inaction, allow a human being t
 
 #
 
-Input _
-       \
-	      Is a human being harmed?
-	       \     \
-	        Y	    N
-	         \     \
-	          \     Continue
-	           \     \
-	            \ ___ Do my orders harm humans?	
-	             \     \
-		            Y     N
-		             \     \
-		              Stop Continue
-		    	         \
-                    Protect myself?
-		        	       \     \
-		        	        Y     N
-			 	               \_____\_____ Protect humans?
-			             	                  \     \
-					                             Y     N
-					                              \     \
-				                                  \    Protect myself
-					                                 Protect humans 
+
 
                                       
