@@ -8,6 +8,4 @@ A robot may not injure a human being or, through inaction, allow a human being t
 
 #
 
-
-
-                                      
+![Asimov's Robot Laws](https://github.com/sourceduty/Asimov_Laws/assets/123030236/6e9b6ca9-986c-469b-821f-059a83398e46)
